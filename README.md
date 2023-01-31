@@ -2,7 +2,7 @@
 
 testing
 
-<img src="https://github-readme-stats.vercel.app/api?username=Longestboi&count_private=true&show_icons=true&theme=radical&hide_rank=true&title_color=ff0f6c)">
+<img src="https://github-readme-stats.vercel.app/api?username=Longestboi&count_private=true&show_icons=true&theme=transparent&title_color=ff287c&text_color=c1004b&icon_color=f4005f&ring_color=ff0f6c&hide_rank=true">
 
 <h2 align="center">Social Media</h2>
 
