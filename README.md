@@ -1,8 +1,18 @@
 # Howdy
 
-testing
 
-<img src="https://github-readme-stats.vercel.app/api?username=Longestboi&count_private=true&show_icons=true&theme=transparent&title_color=ff287c&text_color=c1004b&icon_color=f4005f&ring_color=ff0f6c&hide_rank=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Longestboi&count_private=true&show_icons=true&theme=synthwave&hide_rank=true">
+
+<h2 align="center">Projects</h2>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="" target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/Brick-Breaker"><img style="margin: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=brick-breaker&theme=synthwave"></a>
+<a href="" target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/Brick-Breaker"><img style="margin: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=sndata-converter&theme=synthwave"></a>
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="" target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/Brick-Breaker"><img style="margin: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=Tnes2Ines&theme=synthwave"></a>
+<a href="" target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/Brick-Breaker"><img style="margin: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=tnes2inesgui&theme=synthwave"></a>
+</div>
 
 <h2 align="center">Social Media</h2>
 
