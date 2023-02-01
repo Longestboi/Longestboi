@@ -5,25 +5,17 @@
 
 <h2 align="center">Projects</h2>
 
-<table align="center">
-<tr>
-<td>
-<a href="" target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/Brick-Breaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=brick-breaker&theme=synthwave"></a>
-</td>
-<td>
-<a href="" target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/Brick-Breaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=sndata-converter&theme=synthwave"></a>
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td>
-<a href="" target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/Brick-Breaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=Tnes2Ines&theme=synthwave"></a>
-</td>
-<td>
-<a href="" target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/Brick-Breaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=tnes2inesgui&theme=synthwave"></a>
-</td>
-</tr>
-</table>
+<div>
+<div align="center" style="display: block;">
+<a target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/Brick-Breaker"><img align="middle" style="margin: 1px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=brick-breaker&theme=synthwave"></a>
+<a target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/sndata-converter"><img align="middle" style="margin: 1px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=sndata-converter&theme=synthwave"></a>
+</div>
+<p></p>
+<div align="center" style="display: block;">
+<a target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/TNES2INES"><img align="middle" style="margin: 1px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=TNES2INES&theme=synthwave"></a>
+<a target="_blank" rel="noreferrer noopener" href="https://github.com/Longestboi/tnes2inesGUI"><img align="middle" style="margin: 1px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Longestboi&repo=tnes2inesGUI&theme=synthwave"></a>
+</div>
+</div>
 
 <h2 align="center">Social Media</h2>
 
