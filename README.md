@@ -1,9 +1,15 @@
 # Howdy
 
+<h2 align="center">Statistics</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Longestboi&count_private=true&show_icons=true&theme=synthwave&hide_rank=true">
+<div align="center">
+<img align="center" src="https://img.shields.io/endpoint?color=f4005f&label=Views&style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2FLongestboi%2FLongestboi.json">
+</br>
+</br>
+<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Longestboi&count_private=true&show_icons=true&theme=synthwave&hide_rank=true">
+</div>
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Projects I’m Fond Of</h2>
 
 <div>
 <div align="center" style="display: block;">
