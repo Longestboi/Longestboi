@@ -1,6 +1,6 @@
 # Howdy!
 
-<p>Howdy! My name is Andrew Long, and I am a game programmer interested in lower-level game engine programming. I haven't worked in the games industry yet, but I have programmed a few games from scratch in Python and Pygame.</p>
+<p>My name is Andrew Long, and I am a game programmer interested in lower-level game engine programming. I haven't worked in the games industry yet, but I have programmed a few games from scratch in Python and Pygame.</p>
 <p>If you'd like to see some of my work, check out my <a href="longestboi.github.io">website</a>; It's where I put all the games, projects, and blog posts I've ever written and made. You can also see my portfolio there.</p>
 <p align="center">Thank you for viewing my profile!</p>
 <h2 align="center">Statistics</h2>
