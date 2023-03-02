@@ -8,7 +8,7 @@
 <div align="center">
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Longestboi&count_private=true&show_icons=true&theme=synthwave&hide_rank=true">
 </br>
-<img align="center" src="https://img.shields.io/endpoint?color=f4005f&label=Views&style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2FLongestboi%2FLongestboi.json">
+<img align="center" src="https://img.shields.io/endpoint?color=f4005f&label=Profile%20Views&style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2FLongestboi%2FLongestboi.json">
 </div>
 
 <h2 align="center">Personal Projects I’m Fond Of</h2>
