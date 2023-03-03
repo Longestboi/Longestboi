@@ -1,10 +1,10 @@
 # Howdy!
 
 <p>My name is Andrew Long, and I am a game programmer interested in lower-level game engine programming. I haven't worked in the games industry yet, but I have programmed a few games from scratch in Python and Pygame.</p>
-<p>If you'd like to see some of my work, check out my <a href="longestboi.github.io">website</a>; It's where I put all the games, projects, and blog posts I've ever written and made. You can also see my portfolio there.</p>
+<p>If you'd like to see some of my work, check out my <a href="https://longestboi.github.io">website</a>; It's where I put all the games, projects, and blog posts I've ever written and made. You can also see my portfolio there.</p>
 <p align="center">Thank you for viewing my profile!</p>
 <h2 align="center">Statistics</h2>
- 
+
 <div align="center">
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Longestboi&count_private=true&show_icons=true&theme=synthwave&hide_rank=true">
 </br>
